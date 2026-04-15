@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://v1-vitorga-vitrine.onrender.com';
+const API_BASE_URL = 'https://vitorga.onrender.com';
 
 const apiService = {
   async getContent() {
